@@ -1,0 +1,1 @@
+writing to f_out -> out.txt
