@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1000,
+    "type": "BigBox",
+    "name": "Mall of America",
+    "address": "340 W Market",
+    "address2": "",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55425",
+    "location": {
+      "lat": 44.85466,
+      "lon": -93.24565
+    },
+    "hours": "Mon: 10-9:30; Tue: 10-9:30; Wed: 10-9:30; Thurs: 10-9:30; Fri: 10-9:30; Sat: 10-9:30; Sun: 11-7",
+    "services": [
+      "Geek Squad Services",
+      "Best Buy Mobile",
+      "Best Buy For Business"
+    ]
+  },
+  {
+    "id": 1002,
+    "type": "BigBox",
+    "name": "Tempe Marketplace",
+    "address": "1900 E Rio Salado Pkwy",
+    "address2": "",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85281",
+    "location": {
+      "lat": 33.430729,
+      "lon": -111.89966
+    },
+    "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 10-8",
+    "services": [
+      "Windows Store",
+      "Geek Squad Services",
+      "Best Buy Mobile",
+      "Best Buy For Business"
+    ]}
+  ]
