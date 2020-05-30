@@ -10,14 +10,15 @@ Creative Commons Attribution-NonCommercial 3.0 Unported License, which is availa
 Contact me on LinkedIn regarding contract training services...
 LinkedIn: https://www.linkedin.com/in/peter-thorsteinson-53456713  
 
+* [My C# Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
+* [My Git Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
+* [My HTML CSS Web APIs Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyHtmlCssWebApisCourse)
+* [My Java-2-JS Examples](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJava2JSExamples)
+* [My Java Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJavaCourse)
+* [My JavaScript Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJavaScriptCourse)
+* [My Machine Learning Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyMachineLearningCourse)
+* [My Python Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyPythonCourse)
+* [My SQL Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MySqlCourse)  
+
 BTC: 1D4d7Bhxj5QWcgbQyZCowTMEi36CNYcmQf  
 BCH: qzz9pewgtzt4r2e2hksyn6ym63nk0jka7gv54rzx9x  
-
-* [MyCSharpCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
-* [MyGitCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
-* [MyHtmlCssWebApisCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyHtmlCssWebApisCourse)
-* [MyJava2JSExamples](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJava2JSExamples)
-* [MyJavaCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJavaCourse)
-* [MyJavaScriptCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJavaScriptCourse)
-* [MyMachineLearningCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyMachineLearningCourse)
-* [MyPythonCourse](https://github.com/peterthorsteinson/MyCourses/tree/master/MyPythonCourse)
