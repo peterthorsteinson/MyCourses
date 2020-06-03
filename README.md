@@ -19,6 +19,7 @@ LinkedIn: https://www.linkedin.com/in/peter-thorsteinson-53456713
 * [My Machine Learning Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyMachineLearningCourse)
 * [My Python Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyPythonCourse)
 * [My SQL Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MySqlCourse)  
+* [My Full Stack Web Dev Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyFullStackWebDevCourse)
 
 BTC: 1D4d7Bhxj5QWcgbQyZCowTMEi36CNYcmQf  
 BCH: qzz9pewgtzt4r2e2hksyn6ym63nk0jka7gv54rzx9x  
