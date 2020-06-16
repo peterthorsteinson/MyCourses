@@ -11,6 +11,7 @@ Contact me on LinkedIn regarding contract training services...
 LinkedIn: https://www.linkedin.com/in/peter-thorsteinson-53456713  
 
 * [My C# Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
+* [My Full Stack Web Dev Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyFullStackWebDevCourse)
 * [My Git Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyCSharpCourse)
 * [My HTML CSS Web APIs Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyHtmlCssWebApisCourse)
 * [My Java-2-JS Examples](https://github.com/peterthorsteinson/MyCourses/tree/master/MyJava2JSExamples)
@@ -19,7 +20,6 @@ LinkedIn: https://www.linkedin.com/in/peter-thorsteinson-53456713
 * [My Machine Learning Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyMachineLearningCourse)
 * [My Python Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyPythonCourse)
 * [My SQL Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MySqlCourse)  
-* [My Full Stack Web Dev Course](https://github.com/peterthorsteinson/MyCourses/tree/master/MyFullStackWebDevCourse)
 
 BTC: 1D4d7Bhxj5QWcgbQyZCowTMEi36CNYcmQf  
 BCH: qzz9pewgtzt4r2e2hksyn6ym63nk0jka7gv54rzx9x  
